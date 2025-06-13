@@ -8,7 +8,7 @@ This project analyzes the **Netflix Titles Dataset** to explore trends, content 
 
 🎥 **Video Inspiration**: [YouTube Project Walkthrough](https://youtu.be/-7cT0651_lw?si=kfefcAtdG1XCSEN4)
 
-> **Note**: Though this project is inspired by the YouTube video, the implementation differs as **MySQL** was used instead of **PostgreSQL**, which leads to differences in query syntax and format.
+> **Note**: Though this project is inspired by the YouTube video, the implementation differs as **MySQL** was used instead of **PostgreSQL**, which leads to differences in query syntax and format. Additionally, a few **self-made questions** were included in the analysis.
 
 ## 📁 Dataset
 
